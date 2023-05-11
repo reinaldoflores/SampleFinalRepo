@@ -1,27 +1,27 @@
 #### This is a sample repo that each student ought to create for themselves on GitHub to showcase their three projects from the semester.
 
 
-# Student Name
+# Reinaldo Flores
 
 
 ## Project #1
 
-- http://eve.kean.edu/~myname/MyProject1.html
+- http://localhost:8889/lab/tree/ClassWork/Project%202/Pro1.py
 
-- <b>Description:</b>  My personal website
+- <b>Description:</b>  data frame in order to calculate percentage of drug usuage for specific drug per individual age
 
 
 ## Project #2
 
-- http://eve.kean.edu/~myname/MyProject2.html
+- http://localhost:8889/lab/tree/ClassWork/Project%202/Project2.ipynb
 
-- <b>Description:</b>  A front-end prototype of an E-commerce website
+- <b>Description:</b>  A dictionary of car makes and models with price range on what Kelly Blue Books has them approx. costing at the moment based on market
 
 
 ## Project #3
 
-- http://eve.kean.edu/~myname/MyProject3.html
+- https://github.com/landavec/Credit-Card-Fraud-Detection/tree/main
 
-- <b>Description:</b>  A complete "Web Dev Story" that adopts a Design Thinking approach to address a problem through a front-end website build
+- <b>Description:</b>  Error with my system code; for some reason it wouldn't upload final code but please review code attached as it's worked together. 
 
 
